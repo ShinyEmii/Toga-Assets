@@ -1,0 +1,83 @@
+{
+	"name": "Default Theme",
+	"author": "ShinyEmii",
+	"style": {
+		"font": "NotoSans.ttf",
+		"item_spacing": [ 6, 4 ],
+		"inner_item_spacing": [ 6, 6 ],
+
+		"window_bg": "#141012",
+		"window_padding": [ 8, 8 ],
+		"window_rounding": 8,
+		"window_title_align": [ 0.5, 0.5 ],
+		"window_border_size": 0,
+		"window_menu_button_pos": "none",
+
+		"frame_bg": "#0e0c0d",
+		"frame_hover": "#0e0c0d",
+		"frame_active": "#f0f",
+		"frame_padding": [ 6, 6 ],
+		"frame_rounding": 8,
+		"frame_border_size": 0,
+		
+		"popup_bg": "#0e0c0d",
+		"popup_padding": [ 8, 6 ],
+		"popup_rounding": 8,
+		"popup_border_size": 0,
+		
+		"child_padding": [ 8, 6 ],
+		"child_rounding": 8,
+		"child_border_size": 0,
+		
+		"header": "#1c171a",
+		"header_active": "#1c171a",
+		"header_hover": "#1c171a",
+
+		"tab_hover": "#502f44",
+		"tab_active": "#402636",
+		"tab_bar_border_size": 2,
+		"tab_rounding": 8,
+
+		"text": "#f986d2",
+		"text_selected": "#402636",
+
+		"title_bg": "#502f44",
+		"title_collapsed": "#502f44",
+		"title_active": "#502f44",
+
+		"border_color": "#000",
+		"border_shadow": "#000",
+		"border_size": 0,
+
+		"scroll": "#f986d2",
+		"scroll_bg": "#00000000",
+		"scroll_hover": "#f986d2",
+		"scroll_active": "#fa9edb",
+		"scroll_size": 12,
+		"scroll_rounding": 16,
+
+		"separator": "#502f44",
+		"separator_hover": "#502f44",
+		"separator_active": "#502f44",
+		"separator_text_border_size": 2,
+		"separator_text_align": [ 0.5, 0.5 ],
+
+		"resize": "#f986d2",
+		"resize_hover": "#fa9edb",
+		"resize_active": "#fa9edb",
+
+		"button": "#402636",
+		"button_hover": "#502f44",
+		"button_active": "#402636",
+		"button_text_align": [ 0.5, 0.5 ],
+
+		"checkmark": "#f986d2",
+
+		"slider": "#f986d2",
+		"slider_active": "#fa9edb",
+		"slider_min_size": 8,
+		"slider_rounding": 8,
+
+		"selectable_text_align": [ 0, 0.5 ]
+	}
+}

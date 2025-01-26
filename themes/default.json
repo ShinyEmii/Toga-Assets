@@ -31,10 +31,10 @@
 		"child_rounding": 8,
 		"child_border_size": 0,
 		
-		"header": "#1c171a",
-		"header_active": "#1c171a",
-		"header_hover": "#1c171a",
-		
+		"header": "#32202b",
+		"header_active": "#32202b",
+		"header_hover": "#32202b",
+
 		"tab": "#00000000",
 		"tab_hover": "#502f44",
 		"tab_active": "#402636",
@@ -42,7 +42,7 @@
 		"tab_rounding": 8,
 
 		"text": "#f986d2",
-		"text_selected": "#402636",
+		"text_selected": "#32202b",
 
 		"title_bg": "#502f44",
 		"title_collapsed": "#502f44",

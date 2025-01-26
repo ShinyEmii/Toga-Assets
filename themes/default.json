@@ -3,6 +3,8 @@
 	"author": "ShinyEmii",
 	"style": {
 		"font": "NotoSans.ttf",
+		"font_size": 20,
+		
 		"item_spacing": [ 6, 4 ],
 		"inner_item_spacing": [ 6, 6 ],
 

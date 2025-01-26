@@ -34,7 +34,8 @@
 		"header": "#1c171a",
 		"header_active": "#1c171a",
 		"header_hover": "#1c171a",
-
+		
+		"tab": "#00000000",
 		"tab_hover": "#502f44",
 		"tab_active": "#402636",
 		"tab_bar_border_size": 2,

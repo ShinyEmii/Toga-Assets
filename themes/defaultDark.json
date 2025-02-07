@@ -1,5 +1,5 @@
 {
-	"name": "Default Theme (Dark)",
+	"name": "Dark Theme",
 	"author": "ShinyEmii",
 	"style": {
 		"font": "NotoSans.ttf",
@@ -31,9 +31,9 @@
 		"child_rounding": 8,
 		"child_border_size": 0,
 		
-		"header": "#1a1a1a",
-		"header_active": "#1a1a1a",
-		"header_hover": "#1a1a1a",
+		"header": "#292929",
+		"header_active": "#292929",
+		"header_hover": "#292929",
 		
 		"tab": "#00000000",
 		"tab_hover": "#333333",
@@ -81,6 +81,11 @@
 		"slider_min_size": 8,
 		"slider_rounding": 8,
 		
+		"table_header": "#292929",
+		"table_row_odd": "#121212",
+		"table_row_even": "#0c0c0c",
+		"cell_padding": [0, 6],
+
 		"selectable_text_align": [0, 0.5]
 	}
 }

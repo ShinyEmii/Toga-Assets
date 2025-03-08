@@ -12,7 +12,7 @@
 		"window_padding": [8, 8],
 		"window_rounding": 8,
 		"window_title_align": [0.5, 0.5],
-		"window_border_size": 0,
+		"window_border_size": 1,
 		"window_menu_button_pos": "none",
 		
 		"frame_bg": "#121212",
@@ -48,8 +48,8 @@
 		"title_collapsed": "#333333",
 		"title_active": "#333333",
 		
-		"border_color": "#000",
-		"border_shadow": "#000", 
+		"border": "#333333",
+		"border_shadow": "#00000000", 
 		"border_size": 0,
 		
 		"scroll": "#e0e0e0",
@@ -65,9 +65,9 @@
 		"separator_text_border_size": 2,
 		"separator_text_align": [0.5, 0.5],
 		
-		"resize": "#e0e0e0",
+		"resize": "#333333",
 		"resize_hover": "#b0b0b0",
-		"resize_active": "#b0b0b0",
+		"resize_active": "#e0e0e0",
 		
 		"button": "#292929",
 		"button_hover": "#333333",
@@ -86,6 +86,17 @@
 		"table_row_even": "#0c0c0c",
 		"cell_padding": [0, 6],
 
-		"selectable_text_align": [0, 0.5]
+		"selectable_text_align": [0, 0.5],
+
+		"log_pill": "#121212",
+		"info_pill": "#121212",
+		"warn_pill": "#121212",
+		"error_pill": "#121212",
+		"log_text": "#9dcef9",
+		"info_text": "#a2f99d",
+		"warn_text": "#f9cd9d",
+		"error_text": "#f99d9e",
+		"pill_padding": [6, 0],
+		"pill_rounding": 4
 	}
 }

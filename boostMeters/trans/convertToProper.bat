@@ -1,0 +1,1 @@
+for %%f in (*.png) do magick "%%f" -set colorspace sRGB -colorspace sRGB "%%f"

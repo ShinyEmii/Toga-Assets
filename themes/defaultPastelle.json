@@ -23,11 +23,9 @@
 		"frame_border_size": 0,
 		
 		"popup_bg": "#ECBDC4",
-		"popup_padding": [ 8, 6 ],
 		"popup_rounding": 8,
 		"popup_border_size": 0,
 		
-		"child_padding": [ 8, 6 ],
 		"child_rounding": 8,
 		"child_border_size": 0,
 		
@@ -50,7 +48,6 @@
 
 		"border": "#E18AAA",
 		"border_shadow": "#00000000",
-		"border_size": 0,
 
 		"scroll": "#E18AAA",
 		"scroll_bg": "#00000000",
@@ -82,8 +79,8 @@
 		"slider_rounding": 8,
 
 		"table_header": "#E4A0B7",
-		"table_row_odd": "#ECBDC4",
-		"table_row_even": "#F5DCE0",
+		"table_row_odd": "#F5DCE0",
+		"table_row_even": "#F0CBD1",
 		"cell_padding": [0, 6],
 		
 		"selectable_text_align": [ 0, 0.5 ],

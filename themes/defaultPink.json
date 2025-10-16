@@ -3,7 +3,7 @@
 	"author": "ShinyEmii",
 	"style": {
 		"font": "NotoSans.ttf",
-		"font_size": 20,
+		"font_size": 24,
 		
 		"item_spacing": [ 6, 4 ],
 		"inner_item_spacing": [ 6, 6 ],
@@ -83,17 +83,6 @@
 		"table_row_even": "#110E0F",
 		"cell_padding": [0, 6],
 		
-		"selectable_text_align": [ 0, 0.5 ],
-		
-		"log_pill": "#502f44",
-		"info_pill": "#502f44",
-		"warn_pill": "#502f44",
-		"error_pill": "#502f44",
-		"log_text": "#9dcef9",
-		"info_text": "#a2f99d",
-		"warn_text": "#f9cd9d",
-		"error_text": "#f99d9e",
-		"pill_padding": [6, 0],
-		"pill_rounding": 4
+		"selectable_text_align": [ 0, 0.5 ]
 	}
 }
